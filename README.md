@@ -5,7 +5,7 @@ An end-to-end Machine Learning project that predicts whether a loan will be appr
 ---
 
 ## 🚀 Live App
-(Add your Streamlit Cloud link here after deployment)
+https://loan-approval-predictor-puwydtmokv2waysgmdcgus.streamlit.app/
 
 ---
 
